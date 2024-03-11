@@ -2,6 +2,9 @@
 using namespace std;
 int main ()
 { 
+cout<<"my name is mehtab haider"<<endl;
+cout<<"roll number is 23-st-010"<<endl;
 cout<<"add two numbers:a+b;
 cout<<"subtract two numbers:a-b;
-return 0;}
+return 0;
+}
